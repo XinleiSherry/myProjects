@@ -1,9 +1,13 @@
 package tic_tac_toe;
 
-import java.awt.*;
-import java.awt.event.*;
 import javax.swing.*;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
+/**
+ * 继承JFrame
+ */
 public class Welcome extends JFrame {
 
     private static final long serialVersionUID = 1L;
@@ -26,6 +30,9 @@ public class Welcome extends JFrame {
 
     }
 
+    /**
+     * 封装
+     */
     private void initialize_Buttons() {
         Button bt = new Button("Single Player");
         bt.setBounds(75, 75, 250, 100);

@@ -1,7 +1,10 @@
 package tic_tac_toe;
 
-import java.util.*;
+import java.util.ArrayList;
 
+/**
+ * This class represents the AI player of the game.
+ */
 public class AI {
     private boolean winnable;
 
