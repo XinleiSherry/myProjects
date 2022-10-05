@@ -4,8 +4,10 @@ This repo contains all projects completed by the author during the study on comp
 
 **Author:**
 Xinlei Hu
-Email: hu.xinl@northeastern.edu
-LinedIn: www.linkedin.com/in/sherry-hu-1207fantasticjob
+**Email:**
+hu.xinl@northeastern.edu
+**LinedIn:**
+www.linkedin.com/in/sherry-hu-1207fantasticjob
 
 **GitHubLink**
 [Xinlei's projects](https://github.com/XinleiSherry/myProjects)
