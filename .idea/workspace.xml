@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df3bcb45-66e5-4641-9e02-151c26726a96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Tic_Tac_Toe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tic-Tac-Toe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Tic_Tac_Toe_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/tic_tac_toe/AI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/tic_tac_toe/AI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/tic_tac_toe/Grid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/tic_tac_toe/Grid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/tic_tac_toe/Welcome$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/tic_tac_toe/Welcome$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/tic_tac_toe/Welcome$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/tic_tac_toe/Welcome$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/tic_tac_toe/Welcome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tic_Tac_Toe/tic_tac_toe/Welcome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tic_tac_toe/AI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tic_tac_toe/AI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tic_tac_toe/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tic_tac_toe/Grid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tic_tac_toe/Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tic_tac_toe/Welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tic_tac_toe/Grid.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/tic_tac_toe/Grid.form" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +66,7 @@
       <updated>1660606405952</updated>
       <workItem from="1660606407789" duration="852000" />
       <workItem from="1660610277359" duration="1238000" />
+      <workItem from="1664427411274" duration="20000" />
     </task>
     <servers />
   </component>
