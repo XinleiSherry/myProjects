@@ -1,0 +1,67 @@
+*{
+    /* 初始化 */
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /* 100% 窗口高度 */
+    height: 100vh;
+    /* 弹性布局 居中显示 */
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    background-color: rgb(168, 184, 233);
+}
+
+.container{
+    width: 800px;
+    /* 相对定位 */
+    position: relative;
+    /* 溢出隐藏 */
+    overflow: hidden;
+}
+
+ul{
+    width: 900px;
+    height: 300px;
+    overflow: hidden;
+    display: flex;
+    position: relative;
+}
+
+li{
+    list-style: none;
+    height: 100%;
+    padding-right: 30px;
+}
+
+/* need to adjust size of img */
+li img{
+    width: 200px;
+    height: 300px;
+    /* 保持原有尺寸比例，裁切边长 */
+    object-fit: cover;
+    /* 图片定位正中间 */
+    object-position: center;
+}
+
+.btns{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.btn{
+    color:#fff;
+    border: 1.5px solid #ddd;
+    padding: 5px 15px;
+    margin:5px 15px;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: rgb(186, 160, 242);
+}
